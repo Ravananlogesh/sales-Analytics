@@ -1,0 +1,12 @@
+[server]
+port = 28090
+debug = true
+
+[database]
+host = "localhost"
+user = "postgres"
+port = 5432
+pass = "96320"
+name = "salesmanage"
+sslmode = "disable"
+
